@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Next.js
+🌱 I’m currently learning React
 <!--
 **gabicordero/gabicordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
