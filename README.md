@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 🌱 I’m currently learning AI
-
 ⚡ I use the following tools: HTML, CSS, JavaScript, Next.js, Express.js, Supabase, Vercel, Render, ChatGPT, OpenRouter, GSC
 <!--
 **gabicordero/gabicordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
